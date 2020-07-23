@@ -1,5 +1,5 @@
 # TASK MANAGER 1.0.0   
-## Синхронизация с репозиторием github.com 
+## BackUp в репозиторий github.com 
     https://github.com/YuliyaChernitsyna/jse.git
 ## Требования к software  
 - Java 8  
