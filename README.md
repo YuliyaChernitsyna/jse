@@ -1,4 +1,6 @@
-﻿# TASK MANAGER 1.0.0   
+# TASK MANAGER 1.0.0   
+## Синхронизация с репозиторием github.com 
+    https://github.com/YuliyaChernitsyna/jse.git
 ## Требования к software  
 - Java 8  
 - OpenJDK 11
@@ -13,4 +15,4 @@ e-mail: chernitsyna_ys@nlmk.com
   
 ```maven install``` - копирование .jar файла в локальный репозиторий    
 ## Команды для запуска приложения    
-    java -jar task-manager-1.0.0.jar    
+    java -jar task-manager-1.0.0.jar        
